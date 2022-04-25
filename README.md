@@ -5,8 +5,8 @@ Aplicação feita em Android Studio, utilizando a linguagem de programação Jav
 
 Funcionalidades executadas nesta aplicação:
 
-Conversor de Moedas;
-Leitura de API.
+ - Conversor de Moedas;
+ - Consumir API de Conversão de Moedas.
 A aplicação deve possuir as seguintes caracteristicas:
 
 O Usuario devera fornecer a moeda de base para a conversão, assim como o valor base a ser convertido.
